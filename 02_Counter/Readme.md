@@ -12,4 +12,5 @@
 - classList
 - textContent
 
-## [주요 개념 정리](https://kimitt.tistory.com/47)
+## 🍟 Link 
+[주요 개념 정리](https://kimitt.tistory.com/47)

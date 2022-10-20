@@ -13,3 +13,6 @@
 - Math.floor()
 - Math.random()
 - array.length
+
+## 🍟 Link
+[주요 개념 정리](https://kimitt.tistory.com/47)

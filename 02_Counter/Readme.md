@@ -13,4 +13,4 @@
 - textContent
 
 ## 🍟 Link 
-[주요 개념 정리](https://kimitt.tistory.com/47)
+[주요 개념 정리]()
